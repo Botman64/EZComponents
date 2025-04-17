@@ -210,7 +210,6 @@ class EZEmbed {
 
       .discord-embed .image-panel img {
           max-width: 100%;
-          max-height: 300px;
           border-radius: 4px;
       }
 
