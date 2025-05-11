@@ -122,7 +122,7 @@ class EZSelectMenu {
     style.id = 'ez-select-styles';
     style.textContent = `
           .ez-select-menu {
-              position: fixed;
+              position: absolute;
               width: 100%;
               max-width: 300px;
               font-family: 'Whitney', 'Helvetica Neue', Helvetica, Arial, sans-serif;
