@@ -170,8 +170,7 @@ class EZSelectMenu {
               border: 1px solid #202225;
               border-radius: 4px;
               margin-top: 4px;
-              overflow: hidden;
-              z-index: 10;
+              z-index: 1000;
               box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
           }
 
